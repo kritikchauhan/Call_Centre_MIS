@@ -56,3 +56,7 @@ This report enables management to make informed decisions that improve productiv
 
 ---
 
+## Dashboard Snapshot
+![Dashboard Screenshot](Dashboard_Snapshot.png)
+
+
